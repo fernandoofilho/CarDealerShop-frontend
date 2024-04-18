@@ -1,23 +1,22 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+/car-dealer-shop-frontend/node_modules
+/car-dealer-shop-frontend/.pnp
+/car-dealer-shop-frontend/.pnp.js
 
 # testing
-/coverage
+/car-dealer-shop-frontend/coverage
 
 # production
-/build
+/car-dealer-shop-frontend/build
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+/car-dealer-shop-frontend/.DS_Store
+/car-dealer-shop-frontend/.env.local
+/car-dealer-shop-frontend/.env.development.local
+/car-dealer-shop-frontend/.env.test.local
+/car-dealer-shop-frontend/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/car-dealer-shop-frontend/npm-debug.log*
+/car-dealer-shop-frontend/yarn-debug.log*
+/car-dealer-shop-frontend/yarn-error.log*
